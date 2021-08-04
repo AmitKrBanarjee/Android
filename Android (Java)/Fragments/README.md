@@ -10,5 +10,6 @@ My Example codes in this section are as follows:
 
 1. **FragmentExOne** - splits activity in three fragments.
 
-  <img src="FragmentExOne.PNG" alt="FragmentExOne" align="center" />
-  
+  <p align="center">
+  <img src="FragmentExOne.PNG" alt="FragmentExOne" />
+  </p>
