@@ -10,7 +10,5 @@ My Example codes in this section are as follows:
 
 1. **FragmentExOne** - splits activity in three fragments.
 
-  <img src="FragmentExOne.PNG" alt="FragmentExOne"
-	title="A cute kitten" width="150" height="100" />
+  <img src="FragmentExOne.PNG" alt="FragmentExOne" align="center" />
   
-  ![Alt text](FragmentExOne.PNG?raw=true "FragmentExOne")
