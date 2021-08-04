@@ -10,6 +10,7 @@ My Example codes in this section are as follows:
 
 1. **FragmentExOne** - splits activity in three fragments.
 
-  <div aligncenter>
+  <img src="FragmentExOne.PNG" alt="FragmentExOne"
+	title="A cute kitten" width="150" height="100" />
+  
   ![Alt text](FragmentExOne.PNG?raw=true "FragmentExOne")
-  </div>
