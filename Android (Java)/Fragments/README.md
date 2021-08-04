@@ -1,4 +1,4 @@
-Android Fragment is the part of activity, it is also known as sub-activity. There can be more than one fragment in an activity. Fragments represent multiple screen inside one activity.
+Android **Fragment** is the part of activity, it is also known as sub-activity. There can be more than one fragment in an activity. Fragments represent multiple screen inside one activity.
 
 Android fragment lifecycle is affected by activity lifecycle because fragments are included in activity.
 
